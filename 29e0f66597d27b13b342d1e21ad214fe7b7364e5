@@ -1,0 +1,1 @@
+{"jobID":"5e0ec28f-4a8c-303e-0b18-711ef5ea4385","spec":{"type":"policy","cause":{"Message":"","User":"mokainos \u003c72137340+mokainos@users.noreply.github.com\u003e"},"spec":{"demo:deployment/podinfo":{"add":{"tag_all":"glob:3.2.*"},"remove":{}}}},"result":null}
